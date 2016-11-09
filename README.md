@@ -1,9 +1,13 @@
-# dashboard_js
+# Dashboard com Google Charts
 
-Dashboard JavaScript baseado em https://www.meetup.com/pt-BR/NetCoders/events/235179247/
+Dashboard JavaScript baseado em [meetup.com/NetCoders][0]
 
-https://developers.google.com/chart/interactive/docs/gallery
+Feito com [Google Charts][1]
 
-Web server for Chrome
+_Web server for Chrome_
 
-https://rg3915.github.io/dashboard_js/
+[Live Demo][2]
+
+[0]: https://www.meetup.com/pt-BR/NetCoders/events/235179247/
+[1]: https://developers.google.com/chart/interactive/docs/gallery
+[2]: https://rg3915.github.io/dashboard_js/
